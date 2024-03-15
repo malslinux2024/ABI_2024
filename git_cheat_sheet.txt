@@ -1,5 +1,5 @@
 git clone: creates a local repository of the online version in its "up to date" state.
 git status: teslls us the status of the current staging area and whate is present in the current working sirectory
 git add: adds the file we are working on into the staging area
-git commit: adds the file to the local repository
+git commit: adds the staging area to the local repository
 git push: pushes the file to the remote/public repository
