@@ -1,4 +1,2 @@
-Hi...this is a test file
-bla bla bla
-
-			 >
+here is another line
+I am trying different stuffs!
